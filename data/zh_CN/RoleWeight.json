@@ -1,0 +1,230 @@
+{
+  "丹瑾" : {
+    "name" : "丹瑾.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E4%B8%B9%E7%91%BE.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/丹瑾.json",
+    "md5" : "75734da133942e94477f43f617b3a993"
+  },
+  "今汐" : {
+    "name" : "今汐.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E4%BB%8A%E6%B1%90.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/今汐.json",
+    "md5" : "e390f1339146bb1fee321e2be2d6189e"
+  },
+  "凌阳" : {
+    "name" : "凌阳.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%87%8C%E9%98%B3.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/凌阳.json",
+    "md5" : "28d3d8fda71ae428756231d65eabf571"
+  },
+  "卡卡罗" : {
+    "name" : "卡卡罗.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%8D%A1%E5%8D%A1%E7%BD%97.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/卡卡罗.json",
+    "md5" : "a61b1ddcebfa2b3de0aeee8202da6b7b"
+  },
+  "卡提希娅" : {
+    "name" : "卡提希娅.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%8D%A1%E6%8F%90%E5%B8%8C%E5%A8%85.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/卡提希娅.json",
+    "md5" : "8be12d7fcbbe0407eb8925500f69f1bc"
+  },
+  "吟霖" : {
+    "name" : "吟霖.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%90%9F%E9%9C%96.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/吟霖.json",
+    "md5" : "a69c100e24b317812865742452785a73"
+  },
+  "坎特蕾拉" : {
+    "name" : "坎特蕾拉.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%9D%8E%E7%89%B9%E8%95%BE%E6%8B%89.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/坎特蕾拉.json",
+    "md5" : "2c57aedfb4d4ad0ea4edb24e43ab7e8f"
+  },
+  "夏空" : {
+    "name" : "夏空.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%A4%8F%E7%A9%BA.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/夏空.json",
+    "md5" : "b6d142ae5f0b984e17701f49c9b56caa"
+  },
+  "奥古斯塔" : {
+    "name" : "奥古斯塔.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%A5%A5%E5%8F%A4%E6%96%AF%E5%A1%94.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/奥古斯塔.json",
+    "md5" : "e726ffdc13bfe21fc116a64f764d67d9"
+  },
+  "守岸人" : {
+    "name" : "守岸人.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%AE%88%E5%B2%B8%E4%BA%BA.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/守岸人.json",
+    "md5" : "e5a2856f0d1a269fd07d4faa37f47d7b"
+  },
+  "安可" : {
+    "name" : "安可.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%AE%89%E5%8F%AF.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/安可.json",
+    "md5" : "89bb3911a1af4420a20e8dee7d12184b"
+  },
+  "布兰特" : {
+    "name" : "布兰特.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%B8%83%E5%85%B0%E7%89%B9.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/布兰特.json",
+    "md5" : "3b961483302ee820b6ae6a8cd9a5fda9"
+  },
+  "弗洛洛" : {
+    "name" : "弗洛洛.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%BC%97%E6%B4%9B%E6%B4%9B.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/弗洛洛.json",
+    "md5" : "3db582ecf819f30c42fe21e811c401cb"
+  },
+  "忌炎" : {
+    "name" : "忌炎.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E5%BF%8C%E7%82%8E.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/忌炎.json",
+    "md5" : "ec6d776dd549c35eee4464a3115650eb"
+  },
+  "折枝" : {
+    "name" : "折枝.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%8A%98%E6%9E%9D.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/折枝.json",
+    "md5" : "c7f472ee3f63c3d5d92ae868356d517e"
+  },
+  "散华" : {
+    "name" : "散华.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%95%A3%E5%8D%8E.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/散华.json",
+    "md5" : "1b7751ab1ee8263ede39e05d53b6d1a8"
+  },
+  "桃祈" : {
+    "name" : "桃祈.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%A1%83%E7%A5%88.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/桃祈.json",
+    "md5" : "45f621228f5fbe4fe3bf0f050b74c961"
+  },
+  "椿" : {
+    "name" : "椿.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%A4%BF.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/椿.json",
+    "md5" : "a682d9124ab51565648c3152e809ac08"
+  },
+  "洛可可" : {
+    "name" : "洛可可.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%B4%9B%E5%8F%AF%E5%8F%AF.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/洛可可.json",
+    "md5" : "8cbe8af0b660c3016ddded18abd2f9d9"
+  },
+  "渊武" : {
+    "name" : "渊武.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%B8%8A%E6%AD%A6.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/渊武.json",
+    "md5" : "9681378b3c6394373d06011252b08bab"
+  },
+  "漂泊者·气动" : {
+    "name" : "漂泊者·气动.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%BC%82%E6%B3%8A%E8%80%85%C2%B7%E6%B0%94%E5%8A%A8.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/漂泊者·气动.json",
+    "md5" : "8c45b7f49d5dfd7e7c6e49cc4b22cc08"
+  },
+  "漂泊者·湮灭" : {
+    "name" : "漂泊者·湮灭.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%BC%82%E6%B3%8A%E8%80%85%C2%B7%E6%B9%AE%E7%81%AD.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/漂泊者·湮灭.json",
+    "md5" : "8b7e3a9d7963fad6e5c07ef3c2cf3a5d"
+  },
+  "漂泊者·衍射" : {
+    "name" : "漂泊者·衍射.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E6%BC%82%E6%B3%8A%E8%80%85%C2%B7%E8%A1%8D%E5%B0%84.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/漂泊者·衍射.json",
+    "md5" : "77adf843dc9f6eb6ce7ea7340b3b8492"
+  },
+  "灯灯" : {
+    "name" : "灯灯.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%81%AF%E7%81%AF.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/灯灯.json",
+    "md5" : "c0d6a92cab994854eaa6a746dbe6dbdc"
+  },
+  "炽霞" : {
+    "name" : "炽霞.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%82%BD%E9%9C%9E.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/炽霞.json",
+    "md5" : "b37cc74697f9dea59cb532f269e722b4"
+  },
+  "珂莱塔" : {
+    "name" : "珂莱塔.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%8F%82%E8%8E%B1%E5%A1%94.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/珂莱塔.json",
+    "md5" : "cadaa0ed4b73e1ff8f2eade2135387a1"
+  },
+  "白芷" : {
+    "name" : "白芷.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%99%BD%E8%8A%B7.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/白芷.json",
+    "md5" : "d2833803ea53f9d63a9fd80c3117b180"
+  },
+  "相里要" : {
+    "name" : "相里要.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%9B%B8%E9%87%8C%E8%A6%81.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/相里要.json",
+    "md5" : "f23cc4e55e0a99e1994f93c9c49cc13c"
+  },
+  "秋水" : {
+    "name" : "秋水.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%A7%8B%E6%B0%B4.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/秋水.json",
+    "md5" : "9f96e8de5456bae7ae968ea5ec6cba56"
+  },
+  "秧秧" : {
+    "name" : "秧秧.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%A7%A7%E7%A7%A7.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/秧秧.json",
+    "md5" : "901c6288b7213c22c53328cdb2cf94d5"
+  },
+  "维里奈" : {
+    "name" : "维里奈.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E7%BB%B4%E9%87%8C%E5%A5%88.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/维里奈.json",
+    "md5" : "be2cdbaa6e77a990ba5cbf37bda5d9a9"
+  },
+  "莫特斐" : {
+    "name" : "莫特斐.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E8%8E%AB%E7%89%B9%E6%96%90.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/莫特斐.json",
+    "md5" : "8432dfcaae4799c1456310dbf4302bd3"
+  },
+  "菲比" : {
+    "name" : "菲比.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E8%8F%B2%E6%AF%94.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/菲比.json",
+    "md5" : "7fadfb50287c86e6feeeb861ec11da6c"
+  },
+  "赞妮" : {
+    "name" : "赞妮.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E8%B5%9E%E5%A6%AE.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/赞妮.json",
+    "md5" : "56b9b2ff3957f566c2abd6a531718617"
+  },
+  "釉瑚" : {
+    "name" : "釉瑚.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E9%87%89%E7%91%9A.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/釉瑚.json",
+    "md5" : "97e8214b1462730a32c8d7b012743a3f"
+  },
+  "鉴心" : {
+    "name" : "鉴心.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E9%89%B4%E5%BF%83.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/鉴心.json",
+    "md5" : "6b521932b2e79c5675c484ab310b0672"
+  },
+  "长离" : {
+    "name" : "长离.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E9%95%BF%E7%A6%BB.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/长离.json",
+    "md5" : "2addc86c7d3b7b2dc27d47f2c33d71d9"
+  },
+  "露帕" : {
+    "name" : "露帕.json",
+    "filePath" : "assets/data/zh_CN/weight/default/%E9%9C%B2%E5%B8%95.json",
+    "aimPath" : "assets/data/zh_CN/weight/default/露帕.json",
+    "md5" : "76db423aa13a4b74abe9d2a0e4659d1d"
+  }
+}

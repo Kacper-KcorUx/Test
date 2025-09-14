@@ -1,0 +1,14 @@
+{
+  "RoleBaseData" : {
+    "name" : "RoleBaseData.json",
+    "filePath" : "assets/data/base/RoleBaseData.json",
+    "aimPath" : "assets/data/base/RoleBaseData.json",
+    "md5" : "0b1adf53f01bd9d0f3b11afde87621bc"
+  },
+  "WeaponBaseData" : {
+    "name" : "WeaponBaseData.json",
+    "filePath" : "assets/data/base/WeaponBaseData.json",
+    "aimPath" : "assets/data/base/WeaponBaseData.json",
+    "md5" : "72222fc0abbcdcc94ca7c3783d99876b"
+  }
+}
